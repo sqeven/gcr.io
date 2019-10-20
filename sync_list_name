@@ -1,0 +1,7 @@
+sonobuoy-arm64
+sonobuoy-plugin-conformance
+sonobuoy-plugin-hostfacts
+sonobuoy-plugin-systemd-logs
+test-proj
+velero
+velero-restic-restore-helper
