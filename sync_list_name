@@ -1,4 +1,3 @@
-localkube-dind-image-devshell
 localkube-image
 metadata-server
 minikube-e2e
