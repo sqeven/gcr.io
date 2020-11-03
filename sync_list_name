@@ -1,4 +1,3 @@
-localkube-image
 metadata-server
 minikube-e2e
 nginx-ingress-controller
