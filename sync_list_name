@@ -1,0 +1,9 @@
+sonobuoy-plugin-conformance
+sonobuoy-plugin-hostfacts
+sonobuoy-plugin-systemd-logs
+sonobuoy-plugin-systemd-logs-amd64
+sonobuoy-plugin-systemd-logs-arm64
+sonobuoy-plugin-systemd-logs-ppc64le
+test-proj
+velero
+velero-restic-restore-helper
