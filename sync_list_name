@@ -1,4 +1,3 @@
-minikube-e2e
 nginx-ingress-controller
 preload-generator
 storage-provisioner
